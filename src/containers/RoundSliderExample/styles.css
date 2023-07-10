@@ -1,0 +1,9 @@
+#id-clock .rs-range-color  {
+  background-color: #fcba03;
+}
+#id-clock .rs-handle:after  {
+  background-color: #000000;
+}
+#id-clock .rs-border  {
+  border-color: rgba(252, 186, 3,0.5);
+}

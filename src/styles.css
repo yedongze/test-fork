@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.App {
+  font-family: sans-serif;
+  background: #090303;
+}
+
+.pre-json {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
